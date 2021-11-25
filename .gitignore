@@ -1,0 +1,5 @@
+pkg/
+node_modules/
+obj/
+bin/
+.DS_Store
